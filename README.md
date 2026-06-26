@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushdev-a1/DSA/tree/master/0002-add-two-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushdev-a1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -37,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
