@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushdev-a1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushdev-a1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushdev-a1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushdev-a1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
