@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushdev-a1/DSA/tree/master/0002-add-two-numbers) |
+| [0292-nim-game](https://github.com/Ayushdev-a1/DSA/tree/master/0292-nim-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ayushdev-a1/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ayushdev-a1/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
