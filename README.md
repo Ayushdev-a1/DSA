@@ -58,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ayushdev-a1/DSA/tree/master/0292-nim-game) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushdev-a1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushdev-a1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushdev-a1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ayushdev-a1/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
