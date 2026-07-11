@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushdev-a1/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Ayushdev-a1/DSA/tree/master/0012-integer-to-roman) |
 | [0292-nim-game](https://github.com/Ayushdev-a1/DSA/tree/master/0292-nim-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Ayushdev-a1/DSA/tree/master/0012-integer-to-roman) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Ayushdev-a1/DSA/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
