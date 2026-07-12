@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushdev-a1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushdev-a1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushdev-a1/DSA/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Ayushdev-a1/DSA/tree/master/0056-merge-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Ayushdev-a1/DSA/tree/master/0485-max-consecutive-ones) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Ayushdev-a1/DSA/tree/master/1470-shuffle-the-array) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ayushdev-a1/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
