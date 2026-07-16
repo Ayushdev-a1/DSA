@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayushdev-a1/DSA/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/Ayushdev-a1/DSA/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0460-lfu-cache) |
 ## Math
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ayushdev-a1/DSA/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Ayushdev-a1/DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
