@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Ayushdev-a1/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ayushdev-a1/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/Ayushdev-a1/DSA/tree/master/0147-insertion-sort-list) |
 | [0460-lfu-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0460-lfu-cache) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ayushdev-a1/DSA/tree/master/0056-merge-intervals) |
+| [0147-insertion-sort-list](https://github.com/Ayushdev-a1/DSA/tree/master/0147-insertion-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
