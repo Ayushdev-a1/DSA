@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ayushdev-a1/DSA/tree/master/0012-integer-to-roman) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushdev-a1/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Ayushdev-a1/DSA/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushdev-a1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushdev-a1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushdev-a1/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayushdev-a1/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Ayushdev-a1/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Ayushdev-a1/DSA/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Ayushdev-a1/DSA/tree/master/0177-nth-highest-salary) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushdev-a1/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
