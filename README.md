@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Ayushdev-a1/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Ayushdev-a1/DSA/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Ayushdev-a1/DSA/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/Ayushdev-a1/DSA/tree/master/0178-rank-scores) |
 ## Counting Sort
 |  |
 | ------- |
