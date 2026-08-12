@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushdev-a1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ayushdev-a1/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Ayushdev-a1/DSA/tree/master/1929-concatenation-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushdev-a1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ayushdev-a1/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ayushdev-a1/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/Ayushdev-a1/DSA/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0460-lfu-cache) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushdev-a1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushdev-a1/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayushdev-a1/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Ayushdev-a1/DSA/tree/master/3731-find-missing-elements) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushdev-a1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
