@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ayushdev-a1/DSA/tree/master/0012-integer-to-roman) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayushdev-a1/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushdev-a1/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushdev-a1/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushdev-a1/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushdev-a1/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushdev-a1/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushdev-a1/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
