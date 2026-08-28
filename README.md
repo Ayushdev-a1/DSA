@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayushdev-a1/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayushdev-a1/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayushdev-a1/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushdev-a1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Ayushdev-a1/DSA/tree/master/0086-partition-list) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushdev-a1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayushdev-a1/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ayushdev-a1/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushdev-a1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
