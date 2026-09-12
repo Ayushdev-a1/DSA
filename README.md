@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushdev-a1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Ayushdev-a1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Ayushdev-a1/DSA/tree/master/0012-integer-to-roman) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayushdev-a1/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayushdev-a1/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushdev-a1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0086-partition-list](https://github.com/Ayushdev-a1/DSA/tree/master/0086-partition-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayushdev-a1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushdev-a1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/Ayushdev-a1/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ayushdev-a1/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ayushdev-a1/DSA/tree/master/1406-stone-game-iii) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayushdev-a1/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushdev-a1/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
