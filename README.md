@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ayushdev-a1/DSA/tree/master/0056-merge-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Ayushdev-a1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Ayushdev-a1/DSA/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushdev-a1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushdev-a1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/Ayushdev-a1/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Ayushdev-a1/DSA/tree/master/0877-stone-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ayushdev-a1/DSA/tree/master/0012-integer-to-roman) |
 | [0146-lru-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Ayushdev-a1/DSA/tree/master/0460-lfu-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushdev-a1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1124-longest-well-performing-interval](https://github.com/Ayushdev-a1/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/Ayushdev-a1/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushdev-a1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1124-longest-well-performing-interval](https://github.com/Ayushdev-a1/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushdev-a1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Brainteaser
